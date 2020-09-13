@@ -1,9 +1,9 @@
-### Hi there 👋
-
-<!--
-**s7m4n/s7m4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Profile
+---
+<h4 align="center"> 
+	🚧  Profile 🚀 Coming soon...  🚧
+</h4>
+[![Gmail Badge](https://img.shields.io/badge/-teste@teste.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:teste@teste.com)](mailto:teste@teste.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
