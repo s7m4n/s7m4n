@@ -1,7 +1,5 @@
 ### Profile
 ---
-<h4 align="center"> 
+<h2 align="center"> 
 	🚧  Profile 🚀 Coming soon...  🚧
-</h4>
-
-- 💬 Hello ...
+</h2>
